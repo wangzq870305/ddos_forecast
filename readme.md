@@ -20,14 +20,14 @@ python main.py
 
 Following are four kinds of stream models which are described in the paper.
 
-* CNN based Vanilla Stream Model
+* CNN based Vanilla Stream Model:
 cnn_prediction()
 
-* LSTM based Vanilla Stream Model
+* LSTM based Vanilla Stream Model:
 lstm_prediction()
 
-* Short- and Long-Term Stream Model
+* Short- and Long-Term Stream Model:
 lstmMulti()
 
-* Hierarchical Stream Model
+* Hierarchical Stream Model:
 lstmMulti2()
