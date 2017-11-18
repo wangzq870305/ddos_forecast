@@ -16,4 +16,18 @@ Keras 2.0.6
 
 Usage
 =====
-main.py
+python main.py
+
+Following are four kinds of stream models which are described in the paper.
+
+* CNN based Vanilla Stream Model
+cnn_prediction()
+
+* LSTM based Vanilla Stream Model
+lstm_prediction()
+
+* Short- and Long-Term Stream Model
+lstmMulti()
+
+* Hierarchical Stream Model
+lstmMulti2()
